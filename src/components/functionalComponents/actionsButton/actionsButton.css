@@ -1,0 +1,8 @@
+.actions-button {
+  color: black;
+}
+
+.actions-button:hover {
+  color: rgb(118, 118, 118);
+  background-color: transparent;
+}

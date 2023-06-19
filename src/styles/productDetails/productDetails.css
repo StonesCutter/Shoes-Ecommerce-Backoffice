@@ -1,0 +1,37 @@
+.product-details-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.product-description-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.product-info-wrapper {
+  display: flex;
+  gap: 100px;
+}
+.sizes-table {
+  margin-top: 10px;
+  background-color: white;
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  min-width: 350px;
+  border-radius: 8px;
+}
+
+.sizes-table th {
+  padding: 12px;
+  text-align: left;
+}
+
+.sizes-table td {
+  padding: 12px;
+}
+
+.sizes-table tr:hover {
+  background-color: #ddd;
+}

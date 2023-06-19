@@ -1,0 +1,18 @@
+.topSellingWrapper {
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.recent-orders-table {
+  background-color: white;
+  margin: 10px auto;
+  border: 1px solid #0171bc;
+  border-radius: 8px;
+  padding: 15px 25px;
+}
+
+/* i want to give horizontal padding to table columns */
+
+.recent-orders-table td {
+  width: 80px;
+}

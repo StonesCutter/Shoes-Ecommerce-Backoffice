@@ -1,0 +1,29 @@
+.header-body {
+  height: 70px;
+  background-color: #0371bc;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.header-right {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header-buttons {
+  width: 150px;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 10px;
+}
+
+.header-logo {
+  height: auto;
+  margin-left: 1rem;
+  width: 10vw;
+  display: flex;
+  justify-content: center;
+}

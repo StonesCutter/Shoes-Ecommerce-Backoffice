@@ -1,0 +1,31 @@
+.menuListWrapper {
+  height: 100%;
+}
+.menuListWrapper ul {
+  margin-top: 30px;
+}
+.menuListWrapper li {
+  display: flex;
+  align-items: center;
+  padding: 15px 0;
+  width: 100%;
+  list-style: none;
+  cursor: pointer;
+  color: #667a8a;
+}
+
+.menuListWrapper li a {
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.menuListWrapper li:hover {
+  font-weight: 700;
+  color: #0c7fda;
+}
+
+.active {
+  background-color: #e9f5fe;
+  color: #0c7fda;
+  font-weight: 700;
+}

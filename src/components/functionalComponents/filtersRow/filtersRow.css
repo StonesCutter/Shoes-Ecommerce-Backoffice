@@ -1,0 +1,12 @@
+.filtersRow-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 1rem;
+}
+
+.filters-container {
+  display: flex;
+  gap: 50px;
+}

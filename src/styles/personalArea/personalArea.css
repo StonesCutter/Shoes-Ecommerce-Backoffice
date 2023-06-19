@@ -1,0 +1,19 @@
+.user-details-container {
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  gap: 10px;
+  margin: 0 auto;
+  margin-top: 20px;
+  min-width: max-content;
+  padding: 40px 80px;
+  border: 2px solid #0171bc;
+  border-radius: 10px;
+}
+
+.addresses-link {
+  color: #0171bc;
+  font-weight: bold;
+  font-size: 1.4rem;
+}

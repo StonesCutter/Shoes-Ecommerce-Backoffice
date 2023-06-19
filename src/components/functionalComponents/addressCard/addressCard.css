@@ -1,0 +1,21 @@
+.add-address-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+  cursor: pointer;
+}
+
+.add-address-container:active {
+  transform: scale(0.94);
+}
+
+.add-address-icon {
+  font-size: 3rem;
+  color: #0171bc;
+}
+
+.add-address-text {
+  font-size: 1.5rem;
+}

@@ -1,0 +1,21 @@
+.table-container {
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  margin: 0 auto;
+}
+
+.generic-table {
+  /* border: 1px solid #ddd; */
+}
+
+.table-head th {
+  background-color: #e9f5fe;
+  font-weight: bold;
+}
+
+.table-body {
+}
+
+.MuiTablePagination-root {
+  background-color: #f1f1f1;
+}

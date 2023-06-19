@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Merriweather", serif;
+}
+
+* {
+  font-family: "Mulish", sans-serif;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  /* font-family: "Poppins"; */
+}
+
+.dashboardHeightCalc {
+  height: calc(100vh - 70px);
+}
+
+.screen-title {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.screen-bg {
+  background-color: #f1f1f1;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.w-95 {
+  width: 95%;
+}
+
+.w-70 {
+  width: 70%;
+}
+
+.w-30 {
+  width: 30%;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.div-center {
+  margin: 0 auto;
+}
+
+.h-50 {
+  height: 50%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mtmb-20 {
+  margin: 20px 0;
+}
+
+.bg-charts {
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: rgb(3, 113, 188) 10px 10px 50px;
+}
+
+.m-pie-chart {
+  margin: 1rem auto;
+  width: 50%;
+}
+
+.m-bar-chart {
+  margin: 1rem;
+}
