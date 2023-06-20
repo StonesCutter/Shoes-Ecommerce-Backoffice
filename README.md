@@ -31,5 +31,17 @@ The following types of users will have access to the back office with different 
 Here you can find a short presentation of the backoffice application
 - https://github.com/StonesCutter/Shoes-Ecommerce-Backoffice/blob/main/backoffice-presentation.pdf
 
-## Images
+## Some images
+![image](https://github.com/StonesCutter/Shoes-Ecommerce-Backoffice/assets/56195722/ffc7d405-3b7e-4be9-b183-a620363674e7)
+![image](https://github.com/StonesCutter/Shoes-Ecommerce-Backoffice/assets/56195722/5532fdeb-8e8f-4a12-862f-4a0501967c88)
+![image](https://github.com/StonesCutter/Shoes-Ecommerce-Backoffice/assets/56195722/49a2eb33-fc1f-4d5d-9341-35fe86e2095f)
+![image](https://github.com/StonesCutter/Shoes-Ecommerce-Backoffice/assets/56195722/841a7600-c141-46de-b588-8f6ce80307a2)
+![image](https://github.com/StonesCutter/Shoes-Ecommerce-Backoffice/assets/56195722/ba722d6b-3477-4537-bf29-575417243899)
+![image](https://github.com/StonesCutter/Shoes-Ecommerce-Backoffice/assets/56195722/f227ad78-f6c2-4166-a20b-cc560fee2ad5)
+
+
+
+
+
+
 
